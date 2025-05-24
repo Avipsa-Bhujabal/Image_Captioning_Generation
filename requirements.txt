@@ -1,0 +1,7 @@
+tensorflow
+pandas
+tqdm
+seaborn
+matplotlib
+pillow
+nltk
