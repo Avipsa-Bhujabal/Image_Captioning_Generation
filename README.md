@@ -6,7 +6,7 @@ This project compares two image captioning models—**DenseNet+LSTM (baseline)**
 
 ## 📦 Project Structure
 
-<pre> ```
+<pre>
 ├── 📁 Data
 │ ├── Flickr8k Images (/content/drive/MyDrive/flickr8k/Images)
 │ └── Captions CSV (/content/drive/MyDrive/flickr8k/captions.txt)
@@ -23,7 +23,7 @@ This project compares two image captioning models—**DenseNet+LSTM (baseline)**
 │ ├── Visualizations (images, captions, CLIP scores, t-SNE)
 │
 └── 📄 README.md (this file)
-``` </pre>
+</pre>
 
 ---
 
