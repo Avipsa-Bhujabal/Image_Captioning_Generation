@@ -5,3 +5,7 @@ seaborn
 matplotlib
 pillow
 nltk
+tf2onnx
+scikit-learn
+clip
+transformers

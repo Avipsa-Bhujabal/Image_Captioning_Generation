@@ -1,3 +1,6 @@
 /Images
 captions.txt
 *.keras
+*.h5
+*.pkl
+*.onnx
