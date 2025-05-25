@@ -6,7 +6,25 @@ This project compares two image captioning models—**DenseNet+LSTM (baseline)**
 
 ## 📦 Project Structure
 
-<pre> ```plaintext ## 📦 Project Structure ├── 📁 Data │ ├── Flickr8k Images (/content/drive/MyDrive/flickr8k/Images) │ └── Captions CSV (/content/drive/MyDrive/flickr8k/captions.txt) ├── 📁 Model Files │ ├── DenseNet+LSTM model (model.keras) │ ├── Tokenizer (tokenizer.pkl) │ └── Extracted Features (features.pkl) ├── 📁 Notebooks / Scripts │ ├── DenseNet+LSTM training and evaluation │ ├── BLIP caption generation │ ├── Evaluation metrics (BLEU, NLG-Eval, CLIP) │ └── Visualizations (images, captions, CLIP scores, t-SNE) └── 📄 README.md (this file) ``` </pre>
+<pre> ```plaintext
+
+├── 📁 Data
+│ ├── Flickr8k Images (/content/drive/MyDrive/flickr8k/Images)
+│ └── Captions CSV (/content/drive/MyDrive/flickr8k/captions.txt)
+│
+├── 📁 Model Files
+│ ├── DenseNet+LSTM model (model.keras)
+│ ├── Tokenizer (tokenizer.pkl)
+│ ├── Extracted Features (features.pkl)
+│
+├── 📂 Notebooks / Scripts
+│ ├── DenseNet+LSTM training and evaluation
+│ ├── BLIP caption generation
+│ ├── Evaluation metrics (BLEU, NLG-Eval, CLIP)
+│ ├── Visualizations (images, captions, CLIP scores, t-SNE)
+│
+└── 📄 README.md (this file)
+``` </pre>
 
 ---
 
