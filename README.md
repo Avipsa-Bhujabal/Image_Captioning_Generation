@@ -60,8 +60,6 @@ This project compares two image captioning models—**DenseNet+LSTM (baseline)**
 
 | Image | Ground Truth | DenseNet+LSTM | BLIP | CLIP Scores (GT, Dense, BLIP) |
 | :---: | :----------: | :-----------: | :--: | :--------------------------: |
-| Image | Ground Truth | DenseNet+LSTM | BLIP | CLIP Scores (GT, Dense, BLIP) |
-| :---: | :----------: | :-----------: | :--: | :--------------------------: |
 | ![](Images/2973269132_252bfd0160.jpg) | "A large wild cat is pursuing a horse across a meadow." | "dog is running through the grass" | "a lion chasing a buffalo" | 0.2878, 0.0000, 0.7124 |
 | ![](Images/270263570_3160f360d3.jpg) | "Two brown dogs fight on the leafy ground." | "brown dog is running in the grass" | "a dog and a dog playing together" | 0.6367, 0.0007, 0.3628 |
 
